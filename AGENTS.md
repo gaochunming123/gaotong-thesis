@@ -1,23 +1,23 @@
-# {{PROJECT_NAME}} — AGENTS.md
+# 高仝小论文 — AGENTS.md
 
 ## 專案入口
 
-- 專案名稱：{{PROJECT_NAME}}
-- 專案用途：{{PROJECT_DESCRIPTION}}
-- 主要工作目錄：{{WORK_DIR}}
-- GitHub repo：{{GITHUB_USER}}/{{REPO_NAME}}
+- 專案名稱：高仝小论文
+- 專案用途：作业答辩演示
+- 主要工作目錄：G:\我的云端硬盘\opencloud_0525\gaotong-thesis
+- GitHub repo：gaochunming123/gaotong-thesis
 - 預設 branch：main
 
 ## Obsidian 對應筆記
 
-- Obsidian vault：{{OBSIDIAN_VAULT}}
-- 專案駕駛艙：{{PROJECT_FOLDER}}/專案工作流程.md
+- Obsidian vault：G:\我的云端硬盘\2ndbrain
+- 專案駕駛艙：gaotong-thesis/專案工作流程.md
 
 ## 工作桌 + 三個家
 
-- 工作桌：{{WORK_DIR}}
-- GitHub：{{GITHUB_USER}}/{{REPO_NAME}}
-- Obsidian：{{OBSIDIAN_VAULT}} + {{PROJECT_FOLDER}}/專案工作流程.md
+- 工作桌：G:\我的云端硬盘\opencloud_0525\gaotong-thesis
+- GitHub：gaochunming123/gaotong-thesis
+- Obsidian：G:\我的云端硬盘\2ndbrain + gaotong-thesis/專案工作流程.md
 
 ## 同步規則
 
@@ -37,7 +37,7 @@
 ## 檔案結構
 
 ```
-{{WORK_DIR}}/
+G:\我的云端硬盘\opencloud_0525\gaotong-thesis/
 ├── AGENTS.md    # AI 助理專案規則
 ├── README.md    # 專案說明
 ├── .gitignore   # Git 忽略規則
